@@ -15,6 +15,11 @@ npm start
 ![image](https://github.com/GauravSingh78/TodoList/assets/128143468/d641cf0a-6070-4715-b3d4-ef08b52b6350)
 
 -edit Option 
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/5783f67f-b4c1-49ad-9600-c8a4fe8ac12b)
+
+-after edit
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/02090c73-c77c-4f24-9ae8-c42a6101c138)
+
 
 
 -to delete todo 

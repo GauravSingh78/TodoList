@@ -28,4 +28,5 @@ npm start
 
 -after deletion 
 ![image](https://github.com/GauravSingh78/TodoList/assets/128143468/91f4d891-0a29-4033-897e-ebe37d3e2ba5)
- 
+ ![image](https://github.com/GauravSingh78/TodoList/assets/128143468/a64f458c-298f-4a1f-bad9-fd486f8ad1ae)
+

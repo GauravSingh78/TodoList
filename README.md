@@ -18,7 +18,8 @@ npm start
 ![image](https://github.com/GauravSingh78/TodoList/assets/128143468/5783f67f-b4c1-49ad-9600-c8a4fe8ac12b)
 
 -after edit
-![image](https://github.com/GauravSingh78/TodoList/assets/128143468/02090c73-c77c-4f24-9ae8-c42a6101c138)
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/e11b4fb9-75f6-4e89-b38f-2f87096fe6ac)
+
 
 
 

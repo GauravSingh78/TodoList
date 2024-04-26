@@ -8,7 +8,21 @@ npm start
 # Snapshot of the application
 
 -launch Screen 
-![image](https://github.com/GauravSingh78/TodoList/assets/128143468/1b181722-3c12-4c2a-a0e2-a5dcc2aee7e6)
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/e0dba1e7-7d9d-4936-b82c-3762d0acfc6c)
+
+-Register option
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/88c1f6a2-eabc-4d92-8242-864647dbef49)
+
+-login option
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/54c54b47-6aa4-4fc3-ba88-082fa2bd7f8d)
+
+-all users
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/2fb7dc58-8585-4725-8afe-fcb5537b701e)
+
+
+
+![image](https://github.com/GauravSingh78/TodoList/assets/128143468/5973bc66-d220-4d78-be98-79bb4cc56907)
+
 
 -add option 
 
